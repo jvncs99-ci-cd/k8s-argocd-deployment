@@ -10,7 +10,7 @@ spec:
   source:
     path: manifests
     repoURL: >-
-      https://github.com/subhakar-ci-cd-tools/spring-boot-mongo-db-deployment.git
+      https://github.com/jvncs99-ci-cd-tools/spring-boot-mongo-db-deployment.git
     targetRevision: HEAD
     directory:
       recurse: true
